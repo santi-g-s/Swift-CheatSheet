@@ -1,5 +1,10 @@
 # Swift Cheat Sheet
 
+## Table of Contents
+
+1. [Simple Types](#simple-types)
+2. [Complex Types](#complex-types)
+
 ## Simple Types
 
    ### Variables
